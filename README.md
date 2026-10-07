@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A51C30&height=200&section=header&text=Haiyi%20Li&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Incoming%20M.S.%20CSE%20%C2%B7%20Harvard%20University&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Haiyi Li · Incoming M.S. CSE · Harvard University"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A0019,50:A51C30,100:C9302C&height=220&section=header&text=Gatsby%20Li&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=M.S.%20CSE%20%C2%B7%20Harvard%20University&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="Gatsby Li · M.S. CSE · Harvard University"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 ## 🛠️ Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,matlab,r,latex,docker,linux&theme=dark" alt="Python, PyTorch, OpenCV, MATLAB, R, LaTeX, Docker, Linux"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,matlab,r,latex,docker&theme=dark" alt="Python, PyTorch, OpenCV, MATLAB, R, LaTeX, Docker"/>
 </p>
 
 <p align="center">
@@ -42,4 +42,4 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A51C30&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9302C,50:A51C30,100:7A0019&height=100&section=footer&animation=twinkling" width="100%" alt=""/>
