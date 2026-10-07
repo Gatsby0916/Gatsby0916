@@ -17,7 +17,7 @@
 
 ## ✨ Highlights
 
-- 🎓 **Harvard University**, M.S. in Computational Science & Engineering (Fall 2027)
+- 🎓 **Harvard University**, M.S. in Computational Science & Engineering
   <br>also admitted to **Carnegie Mellon** · **Northwestern** · **UPenn**
 - 🎤 **Eurographics 2026 Oral**: first-author paper *OUGS* + **EG Widening Participation Scholarship**
 - 📄 **3 first-author papers in 2026**: Eurographics · CHI EA · ACM Interactive Health
@@ -34,6 +34,20 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,matlab,r,latex,docker&theme=dark" alt="Python, PyTorch, OpenCV, MATLAB, R, LaTeX, Docker"/>
 </p>
+
+## 🌊 Beyond the Lab
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A51C30&center=true&vCenter=true&width=620&lines=When+I'm+not+training+models...;...I'm+jumping+out+of+planes.;...or+diving+into+the+deep+blue.;...or+on+a+gap+year+around+the+world." alt="Beyond the lab"/>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">🪂<br><b>Skydiving</b><br><sub>Free fall clears the mind</sub></td>
+    <td align="center" width="200">🤿<br><b>Scuba Diving</b><br><sub>Exploring the deep blue</sub></td>
+    <td align="center" width="200">🌍<br><b>Traveling</b><br><sub>Gap year around the world</sub></td>
+  </tr>
+</table>
 
 <p align="center">
   <picture>
