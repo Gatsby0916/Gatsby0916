@@ -27,7 +27,7 @@
 
 - **OUGS**: Active View Selection via Object-aware Uncertainty Estimation in 3DGS · *Eurographics 2026, Oral* · [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70363) · [Code](https://github.com/Gatsby0916/OUGS)
 - **Who Fails Where?** LLM and Human Error Patterns in Endometriosis Ultrasound Report Extraction · *CHI 2026 EA* · [Paper](https://dl.acm.org/doi/abs/10.1145/3772363.3798872)
-- **EndoExtract**: Co-Designing Structured Text Extraction from Endometriosis Ultrasound Reports · *ACM Interactive Health 2026* · [arXiv](https://arxiv.org/abs/2601.18154)
+- **EndoExtract**: Co-Designing Structured Text Extraction from Endometriosis Ultrasound Reports · *ACM IH '26* · [Paper](https://dl.acm.org/doi/10.1145/3786579.3804934)
 
 ## 🛠️ Toolbox
 
