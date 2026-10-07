@@ -41,13 +41,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A51C30&center=true&vCenter=true&width=620&lines=When+I'm+not+training+models...;...I'm+jumping+out+of+planes.;...or+diving+into+the+deep+blue.;...or+on+a+gap+year+around+the+world." alt="Beyond the lab"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">🪂<br><b>Skydiving</b><br><sub>Free fall clears the mind</sub></td>
-    <td align="center" width="200">🤿<br><b>Scuba Diving</b><br><sub>Exploring the deep blue</sub></td>
-    <td align="center" width="200">🌍<br><b>Traveling</b><br><sub>Gap year around the world</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/skydive.webp" width="100%" alt="Skydiving over New Zealand"/>
+</p>
+<p align="center">
+  <img src="assets/dive.webp" width="49%" alt="Scuba diving at the Great Barrier Reef"/>
+  <img src="assets/sydney.webp" width="49%" alt="Sydney Harbour"/>
+</p>
 
 <p align="center">
   <picture>
