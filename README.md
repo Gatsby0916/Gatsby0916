@@ -26,3 +26,17 @@
 - **OUGS**: Active View Selection via Object-aware Uncertainty Estimation in 3DGS · *Eurographics 2026, Oral* · [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70363) · [Code](https://github.com/Gatsby0916/OUGS) · [arXiv](https://arxiv.org/abs/2511.09397) · [HF Papers](https://huggingface.co/papers/2511.09397)
 - **Who Fails Where?** LLM and Human Error Patterns in Endometriosis Ultrasound Report Extraction · *CHI 2026 EA* · [Paper](https://dl.acm.org/doi/abs/10.1145/3772363.3798872) · [arXiv](https://arxiv.org/abs/2601.09053)
 - **EndoExtract**: Co-Designing Structured Text Extraction from Endometriosis Ultrasound Reports · *ACM IH '26* · [Paper](https://dl.acm.org/doi/10.1145/3786579.3804934) · [arXiv](https://arxiv.org/abs/2601.18154)
+
+## 🌊 Beyond the Lab
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A51C30&center=true&vCenter=true&width=620&lines=When+I'm+not+training+models...;...I'm+jumping+out+of+planes.;...or+diving+into+the+deep+blue.;...or+on+a+gap+year+around+the+world." alt="Beyond the lab"/>
+</p>
+
+<p align="center">
+  <img src="assets/skydive.webp" width="100%" alt="Skydiving over New Zealand"/>
+</p>
+<p align="center">
+  <img src="assets/dive.webp" width="49%" alt="Scuba diving at the Great Barrier Reef"/>
+  <img src="assets/sydney.webp" width="49%" alt="Sydney Harbour"/>
+</p>
