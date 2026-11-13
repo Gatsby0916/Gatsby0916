@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://gatsby0916.github.io/haiyi-li-portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A51C30&center=true&vCenter=true&width=620&lines=3D+Gaussian+Splatting;Human-AI+Interaction;LLMs+for+Clinical+Text+Extraction;Applied+Math+%E2%88%A9+Computer+Graphics" alt="Research interests"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://gatsby0916.github.io/haiyi-li-portfolio/"><img src="https://img.shields.io/badge/Portfolio-A51C30?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://scholar.google.com/citations?user=ygecZooAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0004-6914-8457"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
@@ -27,6 +33,12 @@
 - **Who Fails Where?** LLM and Human Error Patterns in Endometriosis Ultrasound Report Extraction · *CHI 2026 EA* · [Paper](https://dl.acm.org/doi/abs/10.1145/3772363.3798872) · [arXiv](https://arxiv.org/abs/2601.09053)
 - **EndoExtract**: Co-Designing Structured Text Extraction from Endometriosis Ultrasound Reports · *ACM IH '26* · [Paper](https://dl.acm.org/doi/10.1145/3786579.3804934) · [arXiv](https://arxiv.org/abs/2601.18154)
 
+## 🛠️ Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,matlab,r,latex,docker&theme=dark" alt="Python, PyTorch, OpenCV, MATLAB, R, LaTeX, Docker"/>
+</p>
+
 ## 🌊 Beyond the Lab
 
 <p align="center">
@@ -40,3 +52,12 @@
   <img src="assets/dive.webp" width="49%" alt="Scuba diving at the Great Barrier Reef"/>
   <img src="assets/sydney.webp" width="49%" alt="Sydney Harbour"/>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gatsby0916/Gatsby0916/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Gatsby0916/Gatsby0916/output/github-snake.svg" alt="Contribution snake"/>
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9302C,50:A51C30,100:7A0019&height=100&section=footer&animation=twinkling" width="100%" alt=""/>
